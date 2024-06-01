@@ -13,7 +13,7 @@ Custom themes for Ultimaker Cura inspired by the Rat Rig 3D Printers.
 
 ## Installation:
 
-1. Download the themes from the releases section and unzip them.
+1. Download the [themes](https://github.com/Heinekamp/Rat-Rig-Cura-Themes/releases/download/V0.1/Rat-Rig-Cura-Themes-V0.1.zip) from the releases section and unzip them.
 
 2. Open the Cura configuration folder (Cura -> Help -> Open Configuration)
 
