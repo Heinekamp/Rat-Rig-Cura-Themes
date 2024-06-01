@@ -1,5 +1,4 @@
 # Rat-Rig-Cura-Themes
-Custom themes for Ultimaker Cura inspired by the Rat Rig 3D Printers.
 
 > [!NOTE]  
 > This is a community-driven project and is not affiliated with, endorsed by, or in any way associated with Rat Rig Lda. All trademarks, service marks, trade names, product names, and logos appearing in this project are the property of their respective owners.
