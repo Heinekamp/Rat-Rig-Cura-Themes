@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 107 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="_0419-data-collection-update" serif:id="0419-data-collection-update">
+        <g id="_4.-collect-data-updated" serif:id="4.-collect-data-updated">
+            <g id="Machine-types">
+                <rect id="Rectangle-Copy-4" x="8" y="3" width="99" height="78" style="fill:rgb(204,204,204);"/>
+                <rect id="Rectangle-Copy-8" x="0" y="0" width="103" height="78" style="fill:rgb(229,229,229);"/>
+                <rect id="Rectangle-Copy-18" x="19" y="52" width="10" height="16" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-21" x="19" y="45" width="10" height="17" style="fill:rgb(204,255,0);"/>
+                <rect id="Rectangle-Copy-24" x="19" y="40" width="10" height="6" style="fill:rgb(232,242,252);"/>
+                <rect id="Rectangle-Copy-19" x="49" y="56" width="10" height="12" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-22" x="49" y="53" width="10" height="4" style="fill:rgb(204,255,0);"/>
+                <rect id="Rectangle-Copy-25" x="49" y="48" width="10" height="6" style="fill:rgb(232,242,252);"/>
+                <rect id="Rectangle-Copy-20" x="79" y="59" width="10" height="9" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-23" x="79" y="46" width="10" height="16" style="fill:rgb(204,255,0);"/>
+                <rect id="Rectangle-Copy-26" x="79" y="43" width="10" height="4" style="fill:rgb(232,242,252);"/>
+                <g id="UMS5" transform="matrix(1,0,0,1,14,14)">
+                    <path id="Shape" d="M18.932,0L0.051,0L0,0.033L0,19.967L0.034,20L1.255,20C1.629,19.433 2.545,19.516 2.545,19.516L16.455,19.516C16.455,19.516 17.371,19.45 17.745,20L18.966,20L19,19.967L19,0.033L18.932,0ZM17.728,15.596C17.728,16.23 17.202,16.731 16.574,16.731L2.426,16.731C1.781,16.731 1.272,16.23 1.272,15.596L1.272,2.035C1.272,1.935 1.357,1.835 1.476,1.835L17.541,1.835C17.643,1.835 17.745,1.918 17.745,2.035L17.728,15.596Z" style="fill:rgb(126,126,126);fill-rule:nonzero;"/>
+                    <path id="Path" d="M9.212,0L9.788,0L9.788,17.647L9.212,17.647L9.212,0Z" style="fill:rgb(126,126,126);fill-rule:nonzero;"/>
+                </g>
+                <g id="UM3" transform="matrix(1,0,0,1,47,17)">
+                    <path id="Shape1" serif:id="Shape" d="M13.9,0L0.1,0C0.05,0 0,0.053 0,0.107L0,16.893C0,16.947 0.05,17 0.1,17L1.002,17C1.203,17 1.403,16.964 1.504,16.786L1.604,16.68C1.737,16.555 1.921,16.484 2.105,16.466L11.895,16.466C12.095,16.466 12.296,16.502 12.396,16.68L12.496,16.786C12.63,16.911 12.814,16.982 12.998,17L13.9,17C13.95,17 14,16.947 14,16.893L14,0.107C14,0.053 13.95,0 13.9,0ZM12.463,12.888C12.463,13.386 12.079,13.796 11.611,13.796L2.356,13.796C1.888,13.796 1.504,13.386 1.504,12.888L1.504,1.869C1.504,1.691 1.637,1.531 1.821,1.531L12.162,1.531C12.329,1.531 12.48,1.673 12.48,1.869L12.48,12.888L12.463,12.888Z" style="fill:rgb(126,126,126);fill-rule:nonzero;"/>
+                </g>
+                <g id="UM2e" transform="matrix(1,0,0,1,76,12)">
+                    <path id="Shape2" serif:id="Shape" d="M13.839,0.55C13.625,0.55 13.411,0.513 13.304,0.33L13.196,0.22C13.046,0.088 12.858,0.01 12.661,0L2.268,0C2.054,0 1.839,0.037 1.732,0.22L1.625,0.33C1.475,0.462 1.287,0.54 1.089,0.55L0.018,0.55L0.018,22L1.089,22C1.304,22 1.518,21.963 1.625,21.78L1.732,21.67C1.882,21.538 2.07,21.46 2.268,21.45L12.732,21.45C12.946,21.45 13.161,21.487 13.268,21.67L13.375,21.78C13.525,21.912 13.713,21.99 13.911,22L14.982,22L14.982,0.55L13.839,0.55ZM13.304,18.022C13.268,18.132 13.161,18.168 13.054,18.242L10.571,18.608C8.446,18.755 6.429,18.755 4.321,18.608L1.839,18.242C1.732,18.242 1.625,18.132 1.625,18.022L1.625,1.907C1.625,1.76 1.768,1.577 1.946,1.577L13.089,1.577C13.196,1.577 13.339,1.723 13.339,1.907L13.339,18.003L13.304,18.003L13.304,18.022Z" style="fill:rgb(126,126,126);fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

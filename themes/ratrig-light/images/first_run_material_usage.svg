@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 108 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="_0419-data-collection-update" serif:id="0419-data-collection-update">
+        <g id="_4.-collect-data-updated" serif:id="4.-collect-data-updated">
+            <g id="material-usage">
+                <rect id="Rectangle-Copy-14" x="8" y="3" width="100" height="78" style="fill:rgb(204,204,204);"/>
+                <g id="Group">
+                    <rect id="Rectangle" x="0" y="0" width="103" height="78" style="fill:rgb(229,229,229);"/>
+                    <ellipse id="Oval-Copy-3" cx="26.776" cy="23.664" rx="13.661" ry="13.604" style="fill:rgb(192,231,38);"/>
+                    <path id="Rectangle1" serif:id="Rectangle" d="M35.246,58.083C35.246,57.557 34.819,57.131 34.294,57.131L26.089,57.131C25.563,57.131 25.137,57.557 25.137,58.083C25.137,58.609 25.563,59.035 26.089,59.035L34.294,59.035C34.819,59.035 35.246,58.609 35.246,58.083Z" style="fill:rgb(204,204,204);"/>
+                    <path id="Rectangle-Copy-7" d="M32.514,53.73C32.514,53.204 32.087,52.777 31.561,52.777L26.089,52.777C25.563,52.777 25.137,53.204 25.137,53.73C25.137,54.255 25.563,54.682 26.089,54.682L31.561,54.682C32.087,54.682 32.514,54.255 32.514,53.73Z" style="fill:rgb(204,204,204);"/>
+                    <path id="Rectangle-Copy-6" d="M31.967,62.164C31.967,61.639 31.541,61.212 31.015,61.212L26.089,61.212C25.563,61.212 25.137,61.639 25.137,62.164C25.137,62.69 25.563,63.117 26.089,63.117L31.015,63.117C31.541,63.117 31.967,62.69 31.967,62.164Z" style="fill:rgb(204,204,204);"/>
+                    <ellipse id="Oval" cx="21.721" cy="62.164" rx="1.23" ry="1.224" style="fill:rgb(232,242,252);"/>
+                    <ellipse id="Oval-Copy-6" cx="21.721" cy="58.083" rx="1.23" ry="1.224" style="fill:rgb(192,231,38);"/>
+                    <ellipse id="Oval-Copy-7" cx="21.721" cy="53.73" rx="1.23" ry="1.224" style="fill:rgb(139,170,16);"/>
+                    <ellipse id="Oval-Copy-4" cx="73.77" cy="23.936" rx="13.661" ry="13.604" style="fill:rgb(192,231,38);"/>
+                    <ellipse id="Oval-Copy-5" cx="72.951" cy="57.675" rx="13.661" ry="13.604" style="fill:rgb(192,231,38);"/>
+                    <g id="Combined-Shape" transform="matrix(-3.82857e-16,1,-1,-3.82857e-16,48.213,-14.6285)">
+                        <path id="path-1" d="M28.334,11.641L38.798,21.944L24.044,21.944C24.044,17.929 25.681,14.29 28.334,11.641Z"/>
+                        <path id="path-11" serif:id="path-1" d="M28.334,11.641L38.798,21.944L24.044,21.944C24.044,17.929 25.681,14.29 28.334,11.641Z" style="fill:rgb(232,242,252);"/>
+                    </g>
+                    <g id="Combined-Shape-Copy" transform="matrix(-1,0,0,1,161.202,0)">
+                        <path id="path-3" d="M73.77,23.936C73.77,16.423 79.887,10.332 87.432,10.332L87.432,23.936L73.77,23.936Z"/>
+                        <path id="path-31" serif:id="path-3" d="M73.77,23.936C73.77,16.423 79.887,10.332 87.432,10.332L87.432,23.936L73.77,23.936Z" style="fill:rgb(232,242,252);"/>
+                    </g>
+                    <g id="Combined-Shape-Copy-2" transform="matrix(0.694658,0.71934,0.71934,-0.694658,-22.0375,51.9171)">
+                        <path id="path-5" d="M56.325,64.246C56.325,56.733 62.442,50.642 69.987,50.642L69.987,64.246L56.325,64.246Z"/>
+                        <path id="path-51" serif:id="path-5" d="M56.325,64.246C56.325,56.733 62.442,50.642 69.987,50.642L69.987,64.246L56.325,64.246Z" style="fill:rgb(232,242,252);"/>
+                    </g>
+                    <g id="Combined-Shape-Copy-3" transform="matrix(3.82857e-16,1,1,-3.82857e-16,17.3791,-17.3791)">
+                        <path id="path-7" d="M65.354,46.029L74.945,55.58L61.422,55.58C61.422,51.858 62.922,48.485 65.354,46.029Z"/>
+                        <path id="path-71" serif:id="path-7" d="M65.354,46.029L74.945,55.58L61.422,55.58C61.422,51.858 62.922,48.485 65.354,46.029Z" style="fill:rgb(139,170,16);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

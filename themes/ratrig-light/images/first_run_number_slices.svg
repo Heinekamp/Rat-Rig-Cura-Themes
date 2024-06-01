@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 108 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g id="_0419-data-collection-update" serif:id="0419-data-collection-update">
+        <g id="_4.-collect-data-updated" serif:id="4.-collect-data-updated">
+            <g id="number-of-slices">
+                <rect id="Rectangle" x="8" y="3" width="100" height="78" style="fill:rgb(204,204,204);"/>
+                <rect id="Rectangle1" serif:id="Rectangle" x="0" y="0" width="103" height="78" style="fill:rgb(229,229,229);"/>
+                <rect id="Rectangle2" serif:id="Rectangle" x="13" y="49" width="3" height="16" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-9" x="26" y="39" width="3" height="26" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-10" x="39" y="59" width="3" height="6" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-11" x="52" y="56" width="3" height="9" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-12" x="65" y="49" width="3" height="16" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-13" x="78" y="51" width="3" height="14" style="fill:rgb(139,170,16);"/>
+                <rect id="Rectangle-Copy-15" x="91" y="30" width="3" height="35" style="fill:rgb(139,170,16);"/>
+                <path id="Path-2" d="M14,44.133L27.5,30.5L40.5,42.5L53.5,48.5L66.5,35.5L79.429,32.5L92.5,20.5" style="fill:none;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval" cx="14.5" cy="43.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval-Copy-8" cx="27.5" cy="30.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval-Copy-9" cx="40.5" cy="42.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval-Copy-10" cx="53.5" cy="48.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval-Copy-11" cx="66.5" cy="35.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval-Copy-12" cx="79.5" cy="32.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <circle id="Oval-Copy-13" cx="92.5" cy="20.5" r="2" style="fill:white;stroke:rgb(204,255,0);stroke-width:1px;"/>
+                <rect id="Rectangle3" serif:id="Rectangle" x="7" y="10" width="1" height="56" style="fill:rgb(204,204,204);"/>
+                <rect id="Rectangle4" serif:id="Rectangle" x="7" y="65" width="92" height="1" style="fill:rgb(204,204,204);"/>
+            </g>
+        </g>
+    </g>
+</svg>
